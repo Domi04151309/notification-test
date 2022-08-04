@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notification Test</string>
+
+    <string name="listener_title">Notification Listener Service</string>
+    <string name="listener_summary">Tap here to enable the notification listener service.</string>
+
+    <string name="ok">OK</string>
+    <string name="error">Error</string>
+</resources>
